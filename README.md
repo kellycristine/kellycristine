@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellycristine
 - 👀 I’m interested in  aprender
-- 🌱 I’m currently fazendo o curso Cs50x  de Harvard
+- 🌱 I’m currently fazendo o curso Codaí 
 - 📫 How to reach me  kcft16094@gmail.com
 
 <!---
