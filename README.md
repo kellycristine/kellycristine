@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kellycristine
 - 👀 I’m interested in  aprender
-- 🌱 I’m currently fazendo o curso Codaí 
+- 🌱 Projeto Codaí finalizafdo com o maximo de aproveitamento
 - 📫 How to reach me  kcft16094@gmail.com
 
 <!---
