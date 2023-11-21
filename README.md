@@ -1,16 +1,16 @@
 ## ![image](https://user-images.githubusercontent.com/112364081/200144522-c7513c51-fd53-410e-ae7c-c77276a0fda4.png)
 
-## Hi!  <br>
-I'm Kelly Cristine <br>
-Content Creator + Developer <br>
-My focus is currently on Fullstack <br>
+## Olá!  <br>
+Meu nome é  Kelly Cristine <br>
+Sou Desenvolvedora  <br>
+Aqui compartilho um pouco do que estou aprendendo e desenvolvendo. <br>
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kellycristine&show_icons=true&theme=highcontrast"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycristine&layout=compact&theme=highcontrast"/>
 </div>
 
-### ❤️ Let's get connected:
+### ❤️ Bora nos conectar pelas redes sociais:
  
   
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/Kellycristine#2150)
@@ -18,7 +18,7 @@ My focus is currently on Fullstack <br>
  [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCAbLBo_G55mxqRk-kH5l5Zw/videos)
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mundodigitalkel/)
  
- ### 🚀 Technologies e Tools I use:
+ ### 🚀 Tecnologias:
  
  <div>
   <img align="center" alt="HTML-Kelly" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
